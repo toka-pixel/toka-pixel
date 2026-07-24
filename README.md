@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450">
+  <img src="https://user-images.githubusercontent.com/74038190/212750903-c4f5c2d4-7781-4f73-9e0b-7dfef7f4d8c8.gif" width="450">
 </p>
 
 ## 🚀 Front-End Developer

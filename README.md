@@ -91,7 +91,7 @@ I enjoy learning new technologies and continuously improving user experience thr
 **Menoufia University**  
 
 **Information Technology Institute (ITI)**  
-Open Source Track (3-Month Diploma)  
+Open Source Track 
 
 ---
 

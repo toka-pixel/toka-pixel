@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=250&section=header&text=Toka%20Yasser&fontSize=50&fontColor=ffffff&animation=fade&fontAlignY=40&desc=Front-End%20Developer&descAlignY=60"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Toka+Yasser;Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Always+Learning+New+Technologies" />
 </p>
+
 
 ## 🚀 Front-End Developer
 

@@ -106,6 +106,3 @@ Open Source Track (3-Month Diploma)
 - 💼 LinkedIn: **https://www.linkedin.com/in/toka-yasser-a3b6231b2/**
 - 📧 Email: **tokayasser646@gmail.com​**
 
----
-
-⭐ Thanks for visiting my profile!

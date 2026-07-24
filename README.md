@@ -1,16 +1,111 @@
-## Hi there 👋
+# Hi 👋, I'm Toka Yasser
 
-<!--
-**toka-pixel/toka-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Front-End Developer
 
-Here are some ideas to get you started:
+Front-End Developer with **4 years of experience** building dynamic and interactive web applications using **React.js, Next.js, TypeScript, and Redux**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building scalable, maintainable, and high-performance applications with a strong focus on:
+
+- ⚡ Performance Optimization
+- 🔍 SEO Best Practices
+- ♿ Accessibility
+- 🧩 Component-Based Architecture
+- 📱 Responsive Design
+- 🚀 Modern Front-End Development
+
+I've worked on projects across multiple industries including:
+
+- 🛒 E-commerce
+- 💰 FinTech
+- 🏥 Healthcare
+- 📚 Course Management Systems
+
+I enjoy learning new technologies and continuously improving user experience through modern development practices.
+
+---
+
+## 💻 Tech Stack
+
+### Front-End
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Styling
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+### State Management
+
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Jotai](https://img.shields.io/badge/Jotai-000000?style=for-the-badge)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Service Worker](https://img.shields.io/badge/Service_Worker-FF6F00?style=for-the-badge)
+
+### Programming & Concepts
+
+- JavaScript (ES6+)
+- TypeScript
+- Object-Oriented Programming (OOP)
+- RESTful APIs
+- React Hooks
+- SQL
+- Unit Testing
+
+---
+
+## 📈 What I Focus On
+
+- Building scalable React & Next.js applications
+- Performance optimization (Lazy Loading, Code Splitting)
+- SEO optimization
+- Accessibility (WCAG)
+- Responsive UI
+- Clean Architecture
+- Reusable Components
+- Agile Development
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Science**  
+**Menoufia University**  
+
+**Information Technology Institute (ITI)**  
+Open Source Track (3-Month Diploma)  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Next.js
+- CI/CD
+- Docker
+- System Design
+- Performance Optimization
+- Micro Frontends
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: **Add Your LinkedIn**
+- 📧 Email: **Add Your Email**
+
+---
+
+⭐ Thanks for visiting my profile!

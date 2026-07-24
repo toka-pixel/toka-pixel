@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750903-c4f5c2d4-7781-4f73-9e0b-7dfef7f4d8c8.gif" width="450">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Toka+Yasser;Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Always+Learning+New+Technologies" />
 </p>
 
 

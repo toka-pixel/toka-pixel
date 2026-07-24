@@ -7,7 +7,7 @@
 
 Front-End Developer with **4 years of experience** building dynamic and interactive web applications using **React.js, Next.js, TypeScript, and Redux**.
 
-I enjoy building scalable, maintainable, and high-performance applications with a strong focus on:
+I am building scalable, maintainable, and high-performance applications with a strong focus on:
 
 - ⚡ Performance Optimization
 - 🔍 SEO Best Practices

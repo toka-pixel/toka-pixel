@@ -1,5 +1,16 @@
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Toka%20Yasser&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Front-End%20Developer&descAlignY=58"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Toka+Yasser;Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+and+Scalable+Web+Apps" />
+</p>
+
+<!-- Coding GIF -->
+<p align="center">
+  <img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 ## 🚀 Front-End Developer

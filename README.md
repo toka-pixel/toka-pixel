@@ -84,7 +84,7 @@ I enjoy learning new technologies and continuously improving user experience thr
 
 ## 🎓 Education
 
-**Bachelor of Computer Science**  
+**Bachelor of computers and informations**  
 **Menoufia University**  
 
 **Information Technology Institute (ITI)**  

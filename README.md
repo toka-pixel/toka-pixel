@@ -103,7 +103,7 @@ Open Source Track (3-Month Diploma)
 - System Design
 - Performance Optimization
 - Micro Frontends
-
+- GitHub Actions
 ---
 
 ## 📫 Connect With Me

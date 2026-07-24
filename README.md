@@ -7,6 +7,9 @@
 
 Front-End Developer with **4 years of experience** building dynamic and interactive web applications using **React.js, Next.js, TypeScript, and Redux**.
 
+🎓 Bachelor of Computers and Information, **Menoufia University**  
+🎓 Information Technology Institute (ITI), **Open Source Track**
+
 I am building scalable, maintainable, and high-performance applications with a strong focus on:
 
 - ⚡ Performance Optimization
@@ -82,16 +85,6 @@ I enjoy learning new technologies and continuously improving user experience thr
 - Clean Architecture
 - Reusable Components
 - Agile Development
-
----
-
-## 🎓 Education
-
-**Bachelor of computers and informations**  
-**Menoufia University**  
-
-**Information Technology Institute (ITI)**  
-Open Source Track 
 
 ---
 

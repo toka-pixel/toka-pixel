@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Toka+Yasser;Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Always+Learning+New+Technologies" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450">
 </p>
-
 
 ## 🚀 Front-End Developer
 

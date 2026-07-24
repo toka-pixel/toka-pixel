@@ -46,6 +46,7 @@ I enjoy learning new technologies and continuously improving user experience thr
 
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Jotai](https://img.shields.io/badge/Jotai-000000?style=for-the-badge)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ### Tools & Technologies
 

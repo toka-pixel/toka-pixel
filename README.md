@@ -2,6 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750903-c4f5c2d4-7781-4f73-9e0b-7dfef7f4d8c8.gif" width="450">
 </p>
 
+
 ## 🚀 Front-End Developer
 
 Front-End Developer with **4 years of experience** building dynamic and interactive web applications using **React.js, Next.js, TypeScript, and Redux**.

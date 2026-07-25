@@ -5,7 +5,7 @@
 
 ## 🚀 Front-End Developer
 
-Front-End Developer with **4 years of experience** building dynamic and interactive web applications using **React.js, Next.js, TypeScript, and Redux**.
+Front-End Developer building dynamic and interactive web applications using **React.js, Next.js, TypeScript, and Redux**.
 
 🎓 Bachelor of Computers and Information, **Menoufia University**  
 🎓 Information Technology Institute (ITI), **Open Source Track**
